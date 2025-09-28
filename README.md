@@ -1,5 +1,4 @@
-# Project Name: 
-# Nara
+# Project Name: Nara
 
 # Project Idea: 
 # Mobile app that helps deaf and mute individuals communicate more easily with others. Using AI, it translates sign language into voice or text, making daily interactions and emergencies smoother and more accessible.The goal is to support inclusion, self-expression, and equal opportunities in all areas of life
@@ -47,6 +46,11 @@
  # Project Files:
   #  You can find the full project files here:
   #  https://www.figma.com/design/73i68KFaJDxzGV9MJkBaU0/Project?node-id=1-421&t=XwLub2qvxG6wmYZ5-0
+
+
+# License:
+
+  
   
 
 
