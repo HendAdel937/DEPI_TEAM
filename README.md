@@ -1,5 +1,5 @@
 # Project Name: 
-#Nara
+# Nara
 
 # Project Idea: 
 # Mobile app that helps deaf and mute individuals communicate more easily with others. Using AI, it translates sign language into voice or text, making daily interactions and emergencies smoother and more accessible.The goal is to support inclusion, self-expression, and equal opportunities in all areas of life
